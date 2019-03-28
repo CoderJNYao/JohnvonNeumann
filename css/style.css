@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding:0;
+}
+#main{
+	margin:0 100px 0 100px;
+	 
+}
+#title{
+	text-align: center;
+	 
+}
+#img-div{
+	width: auto;
+	height: 600px;
+	text-align: center;
+	 
+}
+#image{
+	 width: 400px;
+	 height: 400px;
+	  
+}
+#img-caption{
+	text-indent: 40px;
+}
+#tribute-info{
+	text-indent: 40px;
+	margin-left: 100px;
+	margin-right:100px;
+}
+#tribute-link{
+	
+}
